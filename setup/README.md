@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Setup](./assets/hero.png)
+# ![Setup](./assets/interactive-ui-components-setup.png)
 
 ## Setup
 
@@ -8,15 +8,20 @@ Open your Terminal application and navigate to your **`~/code/ga/lectures`** dir
 cd ~/code/ga/lectures
 ```
 
-Make a new directory called **`[tktk-module-name]`**, then enter this directory:
+Make a new directory called **`interactive-ui-components`**, then enter this directory:
 
 ```bash
-mkdir [tktk-module-name]
-cd [tktk-module-name]
+mkdir interactive-ui-components
+cd interactive-ui-components
 ```
 
 <!-- Other setup instructions here -->
 
+Inside of the  **`interactive-ui-components`** directory, you will create an html and css file. These will be the files we use to animate CSS elmenets using the `transform`, `transition`, and `animation` properties. 
+
+```bash
+touch index.html css/style.css
+```
 
 Open the contents of the directory in VSCode:
 
