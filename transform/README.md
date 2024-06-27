@@ -1,6 +1,6 @@
 # ![Transform](./assets/interactive-ui-component-transform.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to practice the CSS transform property of various visual transformations, including translate, rotate, scale, and skew, to HTML elements. 
 
 The CSS `transform` property is a versatile property used to apply different kinds of visual transformations to HTML elements. The value of `transform` can be any number of transformation functions. You can check out the complete list of transformation functions [here](https://developer.mozilla.org/en-US/docs/Web/CSS/transform#syntax).
 

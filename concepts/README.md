@@ -1,6 +1,6 @@
 # ![Concepts](./assets/interactive-components-concepts.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to develop a basic understand of interactive UI components and how they are used. 
 
 ## Why Use Transitions and Animations?
 CSS transitions and animations are a way to smoothly change the style of an element over a specified duration. They enhance the user experience by adding subtle and visually pleasing effects to web pages. 

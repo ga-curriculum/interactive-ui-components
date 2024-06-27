@@ -1,6 +1,6 @@
 # ![Animations](./assets/interactive-components-animations.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to illustrate the mechanics of CSS animations by creating dynamic visual effects using `@keyframes` and chaining multiple animations.
 
 ## How Do Animations Work?
 Similar to CSS transitions, animations also allow us to alter the original state of an HTML element. However, unlike transitions, CSS animations are dynamic and can create continuous, fluid motion rather than just simple state changes. Animations are ideal for more complex and long-lasting effects, such as rotating a spinning wheel or creating a bouncing animation.

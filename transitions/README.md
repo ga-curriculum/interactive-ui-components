@@ -1,6 +1,6 @@
 # ![Transitions](./assets/interactive-component-transitions.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to explore CSS transitions to implement smooth, gradual visual changes between states in HTML elements, utilizing properties like transition-duration, transition-property, and transition-timing-function to control animation timing and effects.
 
 ## How Do Transitions Work?
 Similar to the `transform` property, `transition`s allow us to alter the original state of an HTML element. Unlike `transform`, `transition`s are **not** static nor are they permanent. Rather, a CSS `transition` allows an element to smoothly and gradually change (or transition) between different states. While you choose the begin and end state, CSS handles the tweening (the in between states). 
